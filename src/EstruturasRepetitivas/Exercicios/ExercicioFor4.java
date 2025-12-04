@@ -30,7 +30,6 @@ public class ExercicioFor4 {
                  System.out.printf("\n%.1f%n\n\n0", soma);
              }
          }
-
         sc.close();
     }
 }
