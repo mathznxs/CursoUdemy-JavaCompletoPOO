@@ -1,0 +1,27 @@
+package TopicosBasicosJava.Fundamentos;
+
+import java.util.Scanner;
+
+public class Bitwise {
+    public static void main (String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int n1 = 89;
+        int n2 = 60;
+
+        System.out.println(n1 & n2);
+        System.out.println(n1 | n2);
+        System.out.println(n1 ^ n2);
+
+        System.out.print("\nDigite um número: ");
+        int n = sc.nextInt();
+        int mask = 0b100000;
+        if ((n & mask) != 0) {
+            System.out.print("6th bit is true!");
+        } else {
+            System.out.print("6th bit is false!");
+        }
+
+
+    }
+}
