@@ -1,4 +1,4 @@
-package EstruturasRepetitivas.Exercicios;
+package com.mathdev.javacourse.exercicios.estruturafor;
 
 /*
     Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seguir. Cada caso de teste consiste

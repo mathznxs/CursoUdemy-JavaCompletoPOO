@@ -1,4 +1,4 @@
-package EstruturasRepetitivas.Exercicios;
+package com.mathdev.javacourse.exercicios.estruturafor;
 
 /*
     Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na tela N linhas,

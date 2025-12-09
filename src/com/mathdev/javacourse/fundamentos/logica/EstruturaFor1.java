@@ -1,4 +1,4 @@
-package EstruturasRepetitivas.Fundamentos;
+package com.mathdev.javacourse.fundamentos.logica;
 
 import java.util.Scanner;
 

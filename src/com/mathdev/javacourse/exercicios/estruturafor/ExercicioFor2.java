@@ -1,4 +1,4 @@
-package EstruturasRepetitivas.Exercicios;
+package com.mathdev.javacourse.exercicios.estruturafor;
 
 /*
     Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida.

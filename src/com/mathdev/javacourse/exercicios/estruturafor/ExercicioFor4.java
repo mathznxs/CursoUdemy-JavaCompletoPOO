@@ -1,4 +1,4 @@
-package EstruturasRepetitivas.Exercicios;
+package com.mathdev.javacourse.exercicios.estruturafor;
 
 /*
     Fazer um programa para ler um número N. Depois leia N pares de números e mostre a divisão do primeiro pelo

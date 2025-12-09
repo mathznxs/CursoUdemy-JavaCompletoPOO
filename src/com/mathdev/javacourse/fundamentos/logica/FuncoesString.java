@@ -1,4 +1,4 @@
-package TopicosBasicosJava.Fundamentos;
+package com.mathdev.javacourse.fundamentos.logica;
 
 public class FuncoesString {
     public static void main (String[] args) {

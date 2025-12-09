@@ -1,9 +1,9 @@
-package IntroducaoPOO.Exercicios;
+package com.mathdev.javacourse.exercicios.poo;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProgramEx001 {
+public class ProgramSemPOO {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
         Locale.setDefault(Locale.US);
